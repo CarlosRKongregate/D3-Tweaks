@@ -409,6 +409,11 @@
         "type": "Fear",
         "unlockLevel": "200",
         "uid": "Fear"
+      },
+      {
+         "type": "Anxiety",
+         "unlockLevel": "5",
+         "uid": "Anxiety"
       }
     ]
   },
