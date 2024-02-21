@@ -415,6 +415,22 @@
          "unlockLevel": "5",
          "uid": "Anxiety"
       }
+      ,
+      {
+          "type": "Embarrassment",
+          "unlockLevel": "6",
+          "uid": "Embarrassment"
+      },
+      {
+           "type": "Ennui",
+           "unlockLevel": "7",
+           "uid": "Ennui"
+      },
+      {
+           "type": "Envy",
+           "unlockLevel": "8",
+           "uid": "Envy"
+      }
     ]
   },
   {
