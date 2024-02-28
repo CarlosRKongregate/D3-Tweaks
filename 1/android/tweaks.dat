@@ -813,7 +813,7 @@
       {
         "starChallenge_3_6": [
           {
-            "uid": "StarChallenge_2_1"
+            "uid": "September_AimForTheStars"
           },
           {
             "type": "StarChallenge"
@@ -870,16 +870,16 @@
             "EventDuration": "3"
           },
           {
-            "headerLocKey": "CHALLENGES_PROGRESS_HEADER_SHOOTING_STARS"
+            "headerLocKey": "CHALLENGES_PROGRESS_HEADER_AIM_STARS"
           },
           {
-            "assetBundle": "shootingstars"
+            "assetBundle": "aimforthestars"
           },
           {
-            "eventBannerAssetName": "IO_event_shooting_stars"
+            "eventBannerAssetName": "IO_event_aim_for_the_stars"
           },
           {
-            "eventMapIconAssetName": "IO_event_shooting_stars_map"
+            "eventMapIconAssetName": "IO_event_aim_for_the_stars_map"
           },
           {
             "customValues": "ChallengeListData-StarChallenge_3_6-RewardTypes"
