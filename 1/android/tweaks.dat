@@ -363,7 +363,7 @@
         "minIOSVersion": "1.22.0"
       },
       {
-        "tweakVersion": "3"
+        "tweakVersion": "10"
       }
     ]
   },
