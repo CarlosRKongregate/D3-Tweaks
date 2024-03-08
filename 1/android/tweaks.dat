@@ -46,6 +46,46 @@
         "bonusGrant": "3",
         "ftueOrbsRequired": "18",
         "duration": "10"
+      },
+      {
+              "type": "Anxiety",
+              "uid": "Anxiety_powerup",
+              "power": "11",
+              "orbsRequired": "18",
+              "ftueMaxLevel": "19",
+              "bonusGrant": "3",
+              "ftueOrbsRequired": "18",
+              "duration": "10"
+      },
+      {
+              "type": "Embarrassment",
+              "uid": "Embarrassment_powerup",
+              "power": "11",
+              "orbsRequired": "18",
+              "ftueMaxLevel": "19",
+              "bonusGrant": "3",
+              "ftueOrbsRequired": "18",
+              "duration": "10"
+      },
+      {
+              "type": "Ennui",
+              "uid": "Ennui_powerup",
+              "power": "11",
+              "orbsRequired": "18",
+              "ftueMaxLevel": "19",
+              "bonusGrant": "3",
+              "ftueOrbsRequired": "18",
+              "duration": "10"
+      },
+      {
+              "type": "Envy",
+              "uid": "Envy_powerup",
+              "power": "3",
+              "orbsRequired": "18",
+              "ftueMaxLevel": "19",
+              "bonusGrant": "3",
+              "ftueOrbsRequired": "18",
+              "duration": "10"
       }
     ]
   },
