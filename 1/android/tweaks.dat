@@ -1820,10 +1820,7 @@
                   {
                     "levelNames": [
                       {
-                        "names": "CLR_none_J_level1287Anxiety"
-                      },
-                      {
-                        "names": "CLR_none_J_level1287Anxiety2"
+                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
                       },
                       {
                         "names": "CLR_none_J_level1287AnxietyAllBallsNew"
@@ -1832,7 +1829,10 @@
                         "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
                       },
                       {
-                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                        "names": "CLR_Pablo_Test"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287Anxiety2"
                       }
                     ]
                   },
@@ -1889,21 +1889,21 @@
                   },
                   {
                     "levelNames": [
-                      {
-                      "names": "CLR_none_J_level1287Anxiety"
-                      },
-                      {
-                      "names": "CLR_none_J_level1287Anxiety2"
-                      },
-                      {
-                      "names": "CLR_none_J_level1287AnxietyAllBallsNew"
-                      },
-                      {
-                      "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
-                      },
-                      {
-                      "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
-                      }
+                     {
+                         "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                       },
+                       {
+                         "names": "CLR_none_J_level1287AnxietyAllBallsNew"
+                       },
+                       {
+                         "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                       },
+                       {
+                         "names": "CLR_Pablo_Test"
+                       },
+                       {
+                         "names": "CLR_none_J_level1287Anxiety2"
+                       }
                     ]
                   }
                 ]
@@ -1913,19 +1913,19 @@
           {
             "levelNames": [
               {
-              "names": "CLR_none_J_level1287Anxiety"
+                "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
               },
               {
-              "names": "CLR_none_J_level1287Anxiety2"
+                "names": "CLR_none_J_level1287AnxietyAllBallsNew"
               },
               {
-              "names": "CLR_none_J_level1287AnxietyAllBallsNew"
+                "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
               },
               {
-              "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                "names": "CLR_Pablo_Test"
               },
               {
-              "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                "names": "CLR_none_J_level1287Anxiety2"
               }
             ]
           },
