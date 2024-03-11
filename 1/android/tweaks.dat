@@ -46,46 +46,6 @@
         "bonusGrant": "3",
         "ftueOrbsRequired": "18",
         "duration": "10"
-      },
-      {
-              "type": "Anxiety",
-              "uid": "Anxiety_powerup",
-              "power": "11",
-              "orbsRequired": "18",
-              "ftueMaxLevel": "19",
-              "bonusGrant": "3",
-              "ftueOrbsRequired": "18",
-              "duration": "10"
-      },
-      {
-              "type": "Embarrassment",
-              "uid": "Embarrassment_powerup",
-              "power": "11",
-              "orbsRequired": "18",
-              "ftueMaxLevel": "19",
-              "bonusGrant": "3",
-              "ftueOrbsRequired": "18",
-              "duration": "10"
-      },
-      {
-              "type": "Ennui",
-              "uid": "Ennui_powerup",
-              "power": "11",
-              "orbsRequired": "18",
-              "ftueMaxLevel": "19",
-              "bonusGrant": "3",
-              "ftueOrbsRequired": "18",
-              "duration": "10"
-      },
-      {
-              "type": "Envy",
-              "uid": "Envy_powerup",
-              "power": "3",
-              "orbsRequired": "18",
-              "ftueMaxLevel": "19",
-              "bonusGrant": "3",
-              "ftueOrbsRequired": "18",
-              "duration": "10"
       }
     ]
   },
@@ -403,7 +363,7 @@
         "minIOSVersion": "1.22.0"
       },
       {
-        "tweakVersion": "10"
+        "tweakVersion": "3"
       }
     ]
   },
@@ -424,54 +384,54 @@
     ]
   },
   {
-    "characters": [
-      {
-        "type": "Joy",
-        "unlockLevel": "0",
-        "uid": "Joy"
-      },
-      {
-        "type": "Sadness",
-        "unlockLevel": "14",
-        "uid": "Sadness"
-      },
-      {
-        "type": "Disgust",
-        "unlockLevel": "125",
-        "uid": "Disgust"
-      },
-      {
-        "type": "Anger",
-        "unlockLevel": "50",
-        "uid": "Anger"
-      },
-      {
-        "type": "Fear",
-        "unlockLevel": "200",
-        "uid": "Fear"
-      },
-      {
-         "type": "Anxiety",
-         "unlockLevel": "9",
-         "uid": "Anxiety"
-      }
-      ,
-      {
-          "type": "Embarrassment",
-          "unlockLevel": "6",
-          "uid": "Embarrassment"
-      },
-      {
-           "type": "Ennui",
-           "unlockLevel": "7",
-           "uid": "Ennui"
-      },
-      {
-           "type": "Envy",
-           "unlockLevel": "8",
-           "uid": "Envy"
-      }
-    ]
+        "characters": [
+          {
+            "type": "Joy",
+            "unlockLevel": "0",
+            "uid": "Joy"
+          },
+          {
+            "type": "Sadness",
+            "unlockLevel": "14",
+            "uid": "Sadness"
+          },
+          {
+            "type": "Disgust",
+            "unlockLevel": "125",
+            "uid": "Disgust"
+          },
+          {
+            "type": "Anger",
+            "unlockLevel": "50",
+            "uid": "Anger"
+          },
+          {
+            "type": "Fear",
+            "unlockLevel": "200",
+            "uid": "Fear"
+          },
+          {
+            "type": "Anxiety",
+            "unlockLevel": "5",
+            "uid": "Anxiety"
+          }
+                      ,
+                      {
+                          "type": "Embarrassment",
+                          "unlockLevel": "6",
+                          "uid": "Embarrassment"
+                      },
+                      {
+                           "type": "Ennui",
+                           "unlockLevel": "7",
+                           "uid": "Ennui"
+                      },
+                      {
+                           "type": "Envy",
+                           "unlockLevel": "8",
+                           "uid": "Envy"
+                      }
+        ]
   },
   {
     "personalizedOffers": [
@@ -853,7 +813,7 @@
       {
         "starChallenge_3_6": [
           {
-            "uid": "September_AimForTheStars"
+            "uid": "StarChallenge_2_1"
           },
           {
             "type": "StarChallenge"
@@ -910,16 +870,16 @@
             "EventDuration": "3"
           },
           {
-            "headerLocKey": "CHALLENGES_PROGRESS_HEADER_AIM_STARS"
+            "headerLocKey": "CHALLENGES_PROGRESS_HEADER_SHOOTING_STARS"
           },
           {
-            "assetBundle": "aimforthestars"
+            "assetBundle": "shootingstars"
           },
           {
-            "eventBannerAssetName": "IO_event_aim_for_the_stars"
+            "eventBannerAssetName": "IO_event_shooting_stars"
           },
           {
-            "eventMapIconAssetName": "IO_event_aim_for_the_stars_map"
+            "eventMapIconAssetName": "IO_event_shooting_stars_map"
           },
           {
             "customValues": "ChallengeListData-StarChallenge_3_6-RewardTypes"
