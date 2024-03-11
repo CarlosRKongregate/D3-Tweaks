@@ -2063,66 +2063,24 @@
                           },
                           {
                             "customValues": "ChallengeListData-AB_LevelsEvent_024_4_Test-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_4_Test-L.Data-Data1-Names"
-                          },
-                          {
-                            "levelNames": [
-                              {
-                                "names": "CLR_none_J_level1287Anxiety"
-                              },
-                              {
-                                "names": "CLR_none_J_level1287Anxiety2"
-                              },
-                              {
-                                "names": "CLR_none_J_level1287AnxietyAllBallsNew"
-                              },
-                              {
-                                "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
-                              },
-                              {
-                                "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
-                              }
-                            ]
-                          },
-                          {
-                            "prizes": [
-                              {
-                                "Queue": "2"
-                              },
-                              {
-                                "Gems": "4"
-                              },
-                              {
-                                "LineExtender": "1"
-                              },
-                              {
-                                "Rainbow": "2"
-                              },
-                              {
-                                "Hearts": "4"
-                              }
-                            ]
-                          }
-                        ]
-                      },                      
-                    ]
-                  },
+                          },                          
                   {
                     "levelNames": [
                       {
-                        "names": "FRE_FrzChg_AF_LifeUhFindsAWay"
-                      },
-                      {
-                        "names": "CLR_FrzLck_SDF_MeatLocker"
-                      },
-                      {
-                        "names": "FRE_FrzVac_SADF_SkyIsFalling"
-                      },
-                      {
-                        "names": "TAR_CanFrzPrx_DJS_CannonOpener"
-                      },
-                      {
-                        "names": "CLR_CanFrz_J_AccuratePrecision_v1"
-                      }
+                          "names": "CLR_none_J_level1287Anxiety"
+                        },
+                        {
+                          "names": "CLR_none_J_level1287Anxiety2"
+                        },
+                        {
+                          "names": "CLR_none_J_level1287AnxietyAllBallsNew"
+                        },
+                        {
+                          "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                        },
+                        {
+                          "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                        }
                     ]
                   },
                   {
