@@ -1820,19 +1820,19 @@
                   {
                     "levelNames": [
                       {
-                        "names": "FRE_FrzChg_AF_LifeUhFindsAWay"
+                        "names": "CLR_none_J_level1287Anxiety"
                       },
                       {
-                        "names": "CLR_FrzLck_SDF_MeatLocker"
+                        "names": "CLR_none_J_level1287Anxiety2"
                       },
                       {
-                        "names": "FRE_FrzVac_SADF_SkyIsFalling"
+                        "names": "CLR_none_J_level1287AnxietyAllBallsNew"
                       },
                       {
-                        "names": "TAR_CanFrzPrx_DJS_CannonOpener"
+                        "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
                       },
                       {
-                        "names": "CLR_CanFrz_J_AccuratePrecision_v1"
+                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
                       }
                     ]
                   },
@@ -1890,19 +1890,19 @@
                   {
                     "levelNames": [
                       {
-                        "names": "FRE_FrzFlt_JSAD_Weedle"
+                      "names": "CLR_none_J_level1287Anxiety"
                       },
                       {
-                        "names": "CLR_FrzScrVac_JAF_ColdPressed"
+                      "names": "CLR_none_J_level1287Anxiety2"
                       },
                       {
-                        "names": "CLR_FrzCanBmp_JSAD_Metapod"
+                      "names": "CLR_none_J_level1287AnxietyAllBallsNew"
                       },
                       {
-                        "names": "TAR_FrzHidSpy_SAF_TestPreparation"
+                      "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
                       },
                       {
-                        "names": "CLR_FrzHid_F_TomStoleMyDesk"
+                      "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
                       }
                     ]
                   }
@@ -1913,19 +1913,19 @@
           {
             "levelNames": [
               {
-                "names": "FRE_FrzChg_AF_LifeUhFindsAWay"
+              "names": "CLR_none_J_level1287Anxiety"
               },
               {
-                "names": "CLR_FrzLck_SDF_MeatLocker"
+              "names": "CLR_none_J_level1287Anxiety2"
               },
               {
-                "names": "FRE_FrzVac_SADF_SkyIsFalling"
+              "names": "CLR_none_J_level1287AnxietyAllBallsNew"
               },
               {
-                "names": "TAR_CanFrzPrx_DJS_CannonOpener"
+              "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
               },
               {
-                "names": "CLR_CanFrz_J_AccuratePrecision_v1"
+              "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
               }
             ]
           },
