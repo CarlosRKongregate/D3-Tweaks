@@ -590,7 +590,7 @@
   {
     "challengeListData": [
       {
-        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
+        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1/ChallengeListData-AB_LevelsEvent_024_4_Test"
       },
       {
         "orphanOrbs_0_6": [
@@ -2103,58 +2103,7 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "data2": [
-                          {
-                            "levelRequirement": "3"
-                          },
-                          {
-                            "numLives": "1"
-                          },
-                          {
-                            "customValues": "ChallengeListData-AB_LevelsEvent_024_4_Test-L.Data-Data2-Prizes/ChallengeListData-AB_LevelsEvent_024_4_Test-L.Data-Data2-Names"
-                          },
-                          {
-                            "prizes": [
-                              {
-                                "Queue": "2"
-                              },
-                              {
-                                "Gems": "4"
-                              },
-                              {
-                                "LineExtender": "1"
-                              },
-                              {
-                                "Rainbow": "2"
-                              },
-                              {
-                                "Hearts": "4"
-                              }
-                            ]
-                          },
-                          {
-                            "levelNames": [
-                              {
-                                "names": "FRE_FrzFlt_JSAD_Weedle"
-                              },
-                              {
-                                "names": "CLR_FrzScrVac_JAF_ColdPressed"
-                              },
-                              {
-                                "names": "CLR_FrzCanBmp_JSAD_Metapod"
-                              },
-                              {
-                                "names": "TAR_FrzHidSpy_SAF_TestPreparation"
-                              },
-                              {
-                                "names": "CLR_FrzHid_F_TomStoleMyDesk"
-                              }
-                            ]
-                          }
-                        ]
-                      }
+                      },                      
                     ]
                   },
                   {
