@@ -384,54 +384,53 @@
     ]
   },
   {
-        "characters": [
-          {
-            "type": "Joy",
-            "unlockLevel": "0",
-            "uid": "Joy"
-          },
-          {
-            "type": "Sadness",
-            "unlockLevel": "14",
-            "uid": "Sadness"
-          },
-          {
-            "type": "Disgust",
-            "unlockLevel": "125",
-            "uid": "Disgust"
-          },
-          {
-            "type": "Anger",
-            "unlockLevel": "50",
-            "uid": "Anger"
-          },
-          {
-            "type": "Fear",
-            "unlockLevel": "200",
-            "uid": "Fear"
-          },
-          {
-            "type": "Anxiety",
-            "unlockLevel": "5",
-            "uid": "Anxiety"
-          }
-                      ,
-                      {
-                          "type": "Embarrassment",
-                          "unlockLevel": "6",
-                          "uid": "Embarrassment"
-                      },
-                      {
-                           "type": "Ennui",
-                           "unlockLevel": "7",
-                           "uid": "Ennui"
-                      },
-                      {
-                           "type": "Envy",
-                           "unlockLevel": "8",
-                           "uid": "Envy"
-                      }
-        ]
+    "characters": [
+      {
+        "type": "Joy",
+        "unlockLevel": "0",
+        "uid": "Joy"
+      },
+      {
+        "type": "Sadness",
+        "unlockLevel": "14",
+        "uid": "Sadness"
+      },
+      {
+        "type": "Disgust",
+        "unlockLevel": "125",
+        "uid": "Disgust"
+      },
+      {
+        "type": "Anger",
+        "unlockLevel": "50",
+        "uid": "Anger"
+      },
+      {
+        "type": "Fear",
+        "unlockLevel": "200",
+        "uid": "Fear"
+      },
+      {
+        "type": "Anxiety",
+        "unlockLevel": "5",
+        "uid": "Anxiety"
+      },
+      {
+        "type": "Embarrassment",
+        "unlockLevel": "6",
+        "uid": "Embarrassment"
+      },
+      {
+        "type": "Ennui",
+        "unlockLevel": "7",
+        "uid": "Ennui"
+      },
+      {
+        "type": "Envy",
+        "unlockLevel": "8",
+        "uid": "Envy"
+      }
+    ]
   },
   {
     "personalizedOffers": [
@@ -1889,21 +1888,21 @@
                   },
                   {
                     "levelNames": [
-                     {
-                         "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyAllBallsNew"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
-                       },
-                       {
-                         "names": "CLR_Pablo_Test"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287Anxiety2"
-                       }
+                      {
+                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287AnxietyAllBallsNew"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                      },
+                      {
+                        "names": "CLR_Pablo_Test"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287Anxiety2"
+                      }
                     ]
                   }
                 ]
@@ -1949,7 +1948,7 @@
             ]
           }
         ]
-      },     
+      },
       {
         "ab_LevelsEvent_024_5": [
           {
@@ -2097,21 +2096,21 @@
                   },
                   {
                     "levelNames": [
-                     {
-                         "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyAllBallsNew"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
-                       },
-                       {
-                         "names": "CLR_Pablo_Test"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287Anxiety2"
-                       }
+                      {
+                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287AnxietyAllBallsNew"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                      },
+                      {
+                        "names": "CLR_Pablo_Test"
+                      },
+                      {
+                        "names": "CLR_none_J_level1287Anxiety2"
+                      }
                     ]
                   }
                 ]
@@ -2157,7 +2156,7 @@
             ]
           }
         ]
-      }      
+      }
     ]
   },
   {
