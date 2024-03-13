@@ -550,7 +550,7 @@
   {
     "challengeListData": [
       {
-        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_5/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
+        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-OrphanOrbs_0_7/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_5/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
       },
       {
         "orphanOrbs_0_6": [
@@ -625,6 +625,92 @@
           },
           {
             "customValues": "ChallengeListData-OrphanOrbs_0_6-RewardTypes"
+          },
+          {
+            "rewardTypes": [
+              {
+                "Powerup_Extra_Choices": "1"
+              },
+              {
+                "Powerup_Line_Extender": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orphanOrbs_0_7": [
+          {
+            "uid": "orphanOrbs_0_7"
+          },
+          {
+            "type": "OrphanOrbs"
+          },
+          {
+            "amountToSucceed": "400"
+          },
+          {
+            "eventComingDate": "1/3/2024 5:37:00 PM"
+          },
+          {
+            "startDate": "1/4/2024 5:37:00 PM"
+          },
+          {
+            "endDate": "1/6/2024 5:37:00 PM"
+          },
+          {
+            "rewardNumber": "1"
+          },
+          {
+            "displayFrequency": "0"
+          },
+          {
+            "bubbleTypes": "Joy,Sadness,Anger,Disgust,Fear"
+          },
+          {
+            "characters": "Joy,Sadness,Anger,Disgust,Fear"
+          },
+          {
+            "progressMilestone1": "35"
+          },
+          {
+            "progressMilestone2": "65"
+          },
+          {
+            "progressMilestone3": "90"
+          },
+          {
+            "milestoneRewardType": "Powerup_Rainbow"
+          },
+          {
+            "milestoneRewardPercentage": "50"
+          },
+          {
+            "shouldShowPromo": "true"
+          },
+          {
+            "WeeclyCycle": "0"
+          },
+          {
+            "AvaliableDays": "6"
+          },
+          {
+            "EventDuration": "7"
+          },
+          {
+            "headerLocKey": "CHALLENGES_PROGRESS_HEADER_MEMORY_FALLS"
+          },
+          {
+            "assetBundle": "memoryfall"
+          },
+          {
+            "eventBannerAssetName": "IO_event_memory_fall"
+          },
+          {
+            "eventMapIconAssetName": "IO_event_memory_fall_map"
+          },
+          {
+            "customValues": "ChallengeListData-OrphanOrbs_0_7-RewardTypes"
           },
           {
             "rewardTypes": [
