@@ -550,7 +550,7 @@
   {
     "challengeListData": [
       {
-        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1/ChallengeListData-AB_LevelsEvent_024_4_test"
+        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_5/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
       },
       {
         "orphanOrbs_0_6": [
@@ -1949,9 +1949,9 @@
             ]
           }
         ]
-      },      
+      },     
       {
-        "ab_LevelsEvent_024_4_test": [
+        "ab_LevelsEvent_024_5": [
           {
             "WeeclyCycle": "4"
           },
@@ -1968,7 +1968,7 @@
             "amountToSucceed": "30"
           },
           {
-            "uid": "AB_LevelsEvent_024_4_test"
+            "uid": "AB_LevelsEvent_024_5"
           },
           {
             "eventBannerAssetName": "IO_DejaVu_head"
@@ -2007,12 +2007,12 @@
             "assetBundle": "dejavu"
           },
           {
-            "customValues": "ChallengeListData-AB_LevelsEvent_024_4_test-LevelsData/ChallengeListData-AB_LevelsEvent_024_4_test-Names/ChallengeListData-AB_LevelsEvent_024_4_test-Prizes"
+            "customValues": "ChallengeListData-AB_LevelsEvent_024_5-LevelsData/ChallengeListData-AB_LevelsEvent_024_5-Names/ChallengeListData-AB_LevelsEvent_024_5-Prizes"
           },
           {
             "levelsData": [
               {
-                "customValues": "ChallengeListData-AB_LevelsEvent_024_4_test-LevelsData-Data1/ChallengeListData-AB_LevelsEvent_024_4_test-LevelsData-Data2"
+                "customValues": "ChallengeListData-AB_LevelsEvent_024_5-LevelsData-Data1/ChallengeListData-AB_LevelsEvent_024_5-LevelsData-Data2"
               },
               {
                 "data1": [
@@ -2023,7 +2023,7 @@
                     "numLives": "1"
                   },
                   {
-                    "customValues": "ChallengeListData-AB_LevelsEvent_024_4_test-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_4_test-L.Data-Data1-Names"
+                    "customValues": "ChallengeListData-AB_LevelsEvent_024_5-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_5-L.Data-Data1-Names"
                   },
                   {
                     "levelNames": [
@@ -2074,7 +2074,7 @@
                     "numLives": "1"
                   },
                   {
-                    "customValues": "ChallengeListData-AB_LevelsEvent_024_4_test-L.Data-Data2-Prizes/ChallengeListData-AB_LevelsEvent_024_4_test-L.Data-Data2-Names"
+                    "customValues": "ChallengeListData-AB_LevelsEvent_024_5-L.Data-Data2-Prizes/ChallengeListData-AB_LevelsEvent_024_5-L.Data-Data2-Names"
                   },
                   {
                     "prizes": [
