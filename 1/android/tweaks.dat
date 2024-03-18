@@ -68,8 +68,8 @@
         "duration": "10"
       },
       {
-        "type": "Enui",
-        "uid": "Enui_powerup",
+        "type": "Ennui",
+        "uid": "Ennui_powerup",
         "power": "11",
         "orbsRequired": "18",
         "ftueMaxLevel": "19",
