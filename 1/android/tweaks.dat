@@ -2130,7 +2130,7 @@
             "levelsEventMapAssetName": "IO_trophytown_map"
           },
           {
-            "assetBundle": "dejavu"
+            "assetBundle": "dejavu1testbundle"
           },
           {
             "customValues": "ChallengeListData-AB_LevelsEvent_024_5-LevelsData/ChallengeListData-AB_LevelsEvent_024_5-Names/ChallengeListData-AB_LevelsEvent_024_5-Prizes"
