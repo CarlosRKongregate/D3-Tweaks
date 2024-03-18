@@ -2127,7 +2127,7 @@
             "startDate": "12/26/2024 00:01 -7:00"
           },
           {
-            "levelsEventMapAssetName": "IO_trophytown_map"
+            "levelsEventMapAssetName": "IO_trophytown_map_test"
           },
           {
             "assetBundle": "dejavutest"
