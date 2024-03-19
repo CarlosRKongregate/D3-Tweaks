@@ -452,23 +452,23 @@
           },
           {
             "type": "Anxiety",
-            "unlockLevel": "5",
+            "unlockLevel": "0",
             "uid": "Anxiety"
           }
                       ,
                       {
                           "type": "Embarrassment",
-                          "unlockLevel": "6",
+                          "unlockLevel": "0",
                           "uid": "Embarrassment"
                       },
                       {
                            "type": "Ennui",
-                           "unlockLevel": "7",
+                           "unlockLevel": "0",
                            "uid": "Ennui"
                       },
                       {
                            "type": "Envy",
-                           "unlockLevel": "8",
+                           "unlockLevel": "0",
                            "uid": "Envy"
                       }
         ]
