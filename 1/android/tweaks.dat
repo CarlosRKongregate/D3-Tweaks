@@ -2157,13 +2157,13 @@
                         "names": "CLR_Anxiety_Tutorial"
                       },
                       {
-                        "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                        "names": "CLR_Envy_Tutorial"
                       },
                       {
-                        "names": "CLR_Anxiety_Tutorial_Test"
+                        "names": "CLR_Ennui_Tutorial"
                       },
                       {
-                        "names": "CLR_Pablo_Test"
+                        "names": "CLR_Embarrassment_Tutorial"
                       },
                       {
                         "names": "CLR_none_J_level1287Anxiety2"
@@ -2223,18 +2223,18 @@
                   },
                   {
                     "levelNames": [
-                     {
-                         "names": "CLR_Anxiety_Tutorial"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
-                       },
-                       {
-                         "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
-                       },
-                       {
-                         "names": "CLR_Pablo_Test"
-                       },
+                      {
+                        "names": "CLR_Anxiety_Tutorial"
+                      },
+                      {
+                        "names": "CLR_Envy_Tutorial"
+                      },
+                      {
+                        "names": "CLR_Ennui_Tutorial"
+                      },
+                      {
+                        "names": "CLR_Embarrassment_Tutorial"
+                      },
                        {
                          "names": "CLR_none_J_level1287Anxiety2"
                        }
@@ -2250,13 +2250,13 @@
                 "names": "CLR_Anxiety_Tutorial"
               },
               {
-                "names": "CLR_none_J_level1287AnxietyRandomizerbumperInert"
+                "names": "CLR_Envy_Tutorial"
               },
               {
-                "names": "CLR_none_J_level1287AnxietyAllRechargePowerUp"
+                "names": "CLR_Ennui_Tutorial"
               },
               {
-                "names": "CLR_Pablo_Test"
+                "names": "CLR_Embarrassment_Tutorial"
               },
               {
                 "names": "CLR_none_J_level1287Anxiety2"
