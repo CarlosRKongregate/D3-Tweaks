@@ -2130,7 +2130,7 @@
             "levelsEventMapAssetName": "IO_trophytown_map_test"
           },
           {
-            "assetBundle": "dejavuanxiety"
+            "assetBundle": "dejavuanxietychallenge"
           },
           {
             "customValues": "ChallengeListData-AB_LevelsEvent_024_5-LevelsData/ChallengeListData-AB_LevelsEvent_024_5-Names/ChallengeListData-AB_LevelsEvent_024_5-Prizes"
@@ -2166,7 +2166,22 @@
                         "names": "CLR_Embarrassment_Tutorial"
                       },
                       {
-                        "names": "CLR_none_J_level1287Anxiety2"
+                        "names": "CLR_none_RainbowReticle"
+                      },
+                      {
+                        "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                      },
+                      {    
+                        "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                      },
+                      {
+                        "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                      },
+                      { 
+                        "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                      },                      
+                      {        
+                        "names": "CLR_FrzHrzVac_F_LittleAlien"              
                       }
                     ]
                   },
@@ -2235,9 +2250,24 @@
                       {
                         "names": "CLR_Embarrassment_Tutorial"
                       },
-                       {
-                         "names": "CLR_none_J_level1287Anxiety2"
-                       }
+                      {
+                        "names": "CLR_none_RainbowReticle"
+                      },
+                      {
+                        "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                      },
+                      {    
+                        "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                      },
+                      {
+                        "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                      },
+                      { 
+                        "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                      },                      
+                      {        
+                        "names": "CLR_FrzHrzVac_F_LittleAlien"              
+                      }
                     ]
                   }
                 ]
@@ -2259,7 +2289,22 @@
                 "names": "CLR_Embarrassment_Tutorial"
               },
               {
-                "names": "CLR_none_J_level1287Anxiety2"
+                "names": "CLR_none_RainbowReticle"
+              },
+              {
+                "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+              },
+              {    
+                "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+              },
+              {
+                "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+              },
+              { 
+                "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+              },                      
+              {        
+                "names": "CLR_FrzHrzVac_F_LittleAlien"              
               }
             ]
           },
