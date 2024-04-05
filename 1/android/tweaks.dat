@@ -1913,10 +1913,10 @@
             "endDate": "12/25/2024 23:59 -7:00"
           },
           {
-            "eventComingDate": "12/23/2025 00:01 -7:00"
+            "eventComingDate": "12/23/2024 00:01 -7:00"
           },
           {
-            "startDate": "12/24/2025 00:01 -7:00"
+            "startDate": "12/24/2024 00:01 -7:00"
           },
           {
             "levelsEventMapAssetName": "IO_trophytown_map"
