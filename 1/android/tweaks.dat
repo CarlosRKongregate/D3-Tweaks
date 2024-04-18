@@ -590,7 +590,7 @@
   {
     "challengeListData": [
       {
-        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-OrphanOrbs_0_7/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_5/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
+        "customValues": "ChallengeListData-OrphanOrbs_4_2/ ChallengeListData-OrphanOrbs_2_4/ChallengeListData-OrphanOrbs_0_6/ChallengeListData-OrphanOrbs_0_7/ChallengeListData-MatchOrbs_3_3/ChallengeListData-MatchOrbs_1_5/ChallengeListData-MatchOrbs_0_0/ChallengeListData-StarChallenge_3_6/ChallengeListData-StarChallenge_2_1/ChallengeListData-StarChallenge_0_3/ChallengeListData-AB_LevelsEvent_024_5/ChallengeListData-AB_LevelsEvent_024_6/ChallengeListData-AB_LevelsEvent_024_4/ChallengeListData-AB_LevelsEvent_024_3/ChallengeListData-AB_LevelsEvent_024_1"
       },
       {
         "orphanOrbs_0_6": [
@@ -2118,13 +2118,13 @@
             "levelsLives": "1"
           },
           {
-            "endDate": "4/15/2024 23:59 -7:00"
+            "endDate": "4/24/2024 23:59 -7:00"
           },
           {
             "eventComingDate": "4/7/2024 00:01 -7:00"
           },
           {
-            "startDate": "4/12/2024 00:01 -7:00"
+            "startDate": "4/17/2024 00:01 -7:00"
           },
           {
             "levelsEventMapAssetName": "IO_trophytown_map"
@@ -2328,7 +2328,260 @@
             ]
           }
         ]
-      }      
+      },
+      {
+          "ab_LevelsEvent_024_6": [
+            {
+              "WeeclyCycle": "4"
+            },
+            {
+              "AvaliableDays": "5"
+            },
+            {
+              "EventDuration": "2"
+            },
+            {
+              "displayFrequency": "0"
+            },
+            {
+              "amountToSucceed": "30"
+            },
+            {
+              "uid": "AB_LevelsEvent_024_6"
+            },
+            {
+              "eventBannerAssetName": "IO_DejaVu_head"
+            },
+            {
+              "shouldShowPromo": "true"
+            },
+            {
+              "levelsEventClaimScreenAssetName": "IO_DejaVu_claimImage"
+            },
+            {
+              "eventMapIconAssetName": "IO_DejaVu_eventImage"
+            },
+            {
+              "levelsEventUIHeaddressAssetName": "IO_DejaVu_containerTrim"
+            },
+            {
+              "type": "Levels"
+            },
+            {
+              "levelsLives": "1"
+            },
+            {
+              "endDate": "12/15/2024 23:59 -7:00"
+            },
+            {
+              "eventComingDate": "12/7/2024 00:01 -7:00"
+            },
+            {
+              "startDate": "12/9/2024 00:01 -7:00"
+            },
+            {
+              "levelsEventMapAssetName": "IO_trophytown_map"
+            },
+            {
+              "assetBundle": "dejavu"
+            },
+            {
+              "customValues": "ChallengeListData-AB_LevelsEvent_024_6-LevelsData/ChallengeListData-AB_LevelsEvent_024_6-Names/ChallengeListData-AB_LevelsEvent_024_6-Prizes"
+            },
+            {
+              "levelsData": [
+                {
+                  "customValues": "ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1/ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data2"
+                },
+                {
+                  "data1": [
+                    {
+                      "levelRequirement": "3"
+                    },
+                    {
+                      "numLives": "1"
+                    },
+                    {
+                      "customValues": "ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
+                    },
+                    {
+                      "levelNames": [
+                        {
+                          "names": "CLR_Anxiety_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Envy_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Ennui_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Embarrassment_Tutorial"
+                        },
+                        {
+                          "names": "CLR_none_RainbowReticle"
+                        },
+                        {
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                        },
+                        {    
+                          "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                        },
+                        {
+                          "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                        },
+                        { 
+                          "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                        },                      
+                        {        
+                          "names": "CLR_FrzHrzVac_F_LittleAlien"              
+                        }
+                      ]
+                    },
+                    {
+                      "prizes": [
+                        {
+                          "Queue": "2"
+                        },
+                        {
+                          "Gems": "4"
+                        },
+                        {
+                          "LineExtender": "1"
+                        },
+                        {
+                          "Rainbow": "2"
+                        },
+                        {
+                          "Hearts": "4"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data2": [
+                    {
+                      "levelRequirement": "134"
+                    },
+                    {
+                      "numLives": "1"
+                    },
+                    {
+                      "customValues": "ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data2-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data2-Names"
+                    },
+                    {
+                      "prizes": [
+                        {
+                          "Queue": "2"
+                        },
+                        {
+                          "Gems": "4"
+                        },
+                        {
+                          "LineExtender": "1"
+                        },
+                        {
+                          "Rainbow": "2"
+                        },
+                        {
+                          "Hearts": "4"
+                        }
+                      ]
+                    },
+                    {
+                      "levelNames": [
+                        {
+                          "names": "CLR_Anxiety_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Envy_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Ennui_Tutorial"
+                        },
+                        {
+                          "names": "CLR_Embarrassment_Tutorial"
+                        },
+                        {
+                          "names": "CLR_none_RainbowReticle"
+                        },
+                        {
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                        },
+                        {    
+                          "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                        },
+                        {
+                          "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                        },
+                        { 
+                          "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                        },                      
+                        {        
+                          "names": "CLR_FrzHrzVac_F_LittleAlien"              
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "levelNames": [
+                {
+                  "names": "CLR_Anxiety_Tutorial"
+                },
+                {
+                  "names": "CLR_Envy_Tutorial"
+                },
+                {
+                  "names": "CLR_Ennui_Tutorial"
+                },
+                {
+                  "names": "CLR_Embarrassment_Tutorial"
+                },
+                {
+                  "names": "CLR_none_RainbowReticle"
+                },
+                {
+                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                },
+                {    
+                  "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                },
+                {
+                  "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                },
+                { 
+                  "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                },                      
+                {        
+                  "names": "CLR_FrzHrzVac_F_LittleAlien"              
+                }
+              ]
+            },
+            {
+              "prizes": [
+                {
+                  "Queue": "2"
+                },
+                {
+                  "Gems": "4"
+                },
+                {
+                  "LineExtender": "1"
+                },
+                {
+                  "Rainbow": "2"
+                },
+                {
+                  "Hearts": "4"
+                }
+              ]
+            }
+          ]
+        }        
     ]
   },
   {
