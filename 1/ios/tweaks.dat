@@ -2176,12 +2176,6 @@
                       },
                       {
                         "names": "FRE_Embarrassement_Pablo"
-                      },
-                      { 
-                        "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
-                      },                      
-                      {        
-                        "names": "CLR_FrzHrzVac_F_LittleAlien"              
                       }
                     ]
                   },
@@ -2261,12 +2255,6 @@
                       },
                       {
                         "names": "FRE_Embarrassement_Pablo"
-                      },
-                      { 
-                        "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
-                      },                      
-                      {        
-                        "names": "CLR_FrzHrzVac_F_LittleAlien"              
                       }
                     ]
                   }
@@ -2299,13 +2287,7 @@
               },
               {
                 "names": "FRE_Embarrassement_Pablo"
-              },
-              { 
-                "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
-              },                      
-              {        
-                "names": "CLR_FrzHrzVac_F_LittleAlien"              
-              }
+              }              
             ]
           },
           {
