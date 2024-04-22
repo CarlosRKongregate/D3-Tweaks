@@ -2118,7 +2118,7 @@
             "levelsLives": "1"
           },
           {
-            "endDate": "4/24/2024 23:59 -7:00"
+            "endDate": "6/22/2024 23:59 -7:00"
           },
           {
             "eventComingDate": "4/7/2024 00:01 -7:00"
@@ -2389,16 +2389,16 @@
                     {
                       "levelNames": [
                         {
-                          "names": "CLR_Anxiety_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Envy_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Ennui_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Embarrassment_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
                           "names": "FRE_Ennui_Pablo"
@@ -2474,16 +2474,16 @@
                     {
                       "levelNames": [
                         {
-                          "names": "CLR_Anxiety_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Envy_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Ennui_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
-                          "names": "CLR_Embarrassment_Tutorial"
+                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                         },
                         {
                           "names": "CLR_none_RainbowReticle"
@@ -2512,16 +2512,16 @@
             {
               "levelNames": [
                 {
-                  "names": "CLR_Anxiety_Tutorial"
+                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                 },
                 {
-                  "names": "CLR_Envy_Tutorial"
+                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                 },
                 {
-                  "names": "CLR_Ennui_Tutorial"
+                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                 },
                 {
-                  "names": "CLR_Embarrassment_Tutorial"
+                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
                 },
                 {
                   "names": "CLR_none_RainbowReticle"
