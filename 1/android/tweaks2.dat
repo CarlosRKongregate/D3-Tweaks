@@ -2118,13 +2118,13 @@
             "levelsLives": "1"
           },
           {
-            "endDate": "6/22/2024 23:59 -7:00"
+            "endDate": "1/22/2024 23:59 -7:00"
           },
           {
-            "eventComingDate": "4/7/2024 00:01 -7:00"
+            "eventComingDate": "1/7/2024 00:01 -7:00"
           },
           {
-            "startDate": "4/17/2024 00:01 -7:00"
+            "startDate": "1/17/2024 00:01 -7:00"
           },
           {
             "levelsEventMapAssetName": "IO_trophytown_map"
@@ -2353,13 +2353,13 @@
               "levelsLives": "1"
             },
             {
-              "endDate": "12/15/2024 23:59 -7:00"
+              "endDate": "4/30/2024 23:59 -7:00"
             },
             {
-              "eventComingDate": "12/7/2024 00:01 -7:00"
+              "eventComingDate": "4/7/2024 00:01 -7:00"
             },
             {
-              "startDate": "12/9/2024 00:01 -7:00"
+              "startDate": "4/9/2024 00:01 -7:00"
             },
             {
               "levelsEventMapAssetName": "IO_trophytown_map_scroll"
