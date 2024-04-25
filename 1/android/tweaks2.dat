@@ -2389,7 +2389,7 @@
                     {
                       "levelNames": [
                         {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                          "names": "FRE_Ennui_Pablo"
                         },
                         {
                           "names": "CLR_FltDuaTdg_J_ManicTuesdays"
@@ -2442,60 +2442,8 @@
                   ]
                 }                
               ]
-            },
-            {
-              "levelNames": [
-                {
-                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                },
-                {
-                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                },
-                {
-                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                },
-                {
-                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                },
-                {
-                  "names": "CLR_none_RainbowReticle"
-                },
-                {
-                  "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                },
-                {    
-                  "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
-                },
-                {
-                  "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
-                },
-                { 
-                  "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
-                },                      
-                {        
-                  "names": "CLR_FrzHrzVac_F_LittleAlien"              
-                }
-              ]
-            },
-            {
-              "prizes": [
-                {
-                  "Queue": "2"
-                },
-                {
-                  "Gems": "4"
-                },
-                {
-                  "LineExtender": "1"
-                },
-                {
-                  "Rainbow": "2"
-                },
-                {
-                  "Hearts": "4"
-                }
-              ]
-            }
+            }           
+            
           ]
         }        
     ]
