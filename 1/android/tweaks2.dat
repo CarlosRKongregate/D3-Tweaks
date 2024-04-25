@@ -2373,7 +2373,7 @@
             {
               "levelsData": [
                 {
-                  "customValues": "ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1/ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data2"
+                  "customValues": "ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
                 },
                 {
                   "data1": [
@@ -2385,7 +2385,7 @@
                     },
                     {
                       "customValues": "ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                    },
+                    },                    
                     {
                       "levelNames": [
                         {
@@ -2440,73 +2440,7 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "data2": [
-                    {
-                      "levelRequirement": "134"
-                    },
-                    {
-                      "numLives": "1"
-                    },
-                    {
-                      "customValues": "ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data2-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data2-Names"
-                    },
-                    {
-                      "prizes": [
-                        {
-                          "Queue": "2"
-                        },
-                        {
-                          "Gems": "4"
-                        },
-                        {
-                          "LineExtender": "1"
-                        },
-                        {
-                          "Rainbow": "2"
-                        },
-                        {
-                          "Hearts": "4"
-                        }
-                      ]
-                    },
-                    {
-                      "levelNames": [
-                        {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                        },
-                        {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                        },
-                        {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                        },
-                        {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                        },
-                        {
-                          "names": "CLR_none_RainbowReticle"
-                        },
-                        {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
-                        },
-                        {    
-                          "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
-                        },
-                        {
-                          "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
-                        },
-                        { 
-                          "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
-                        },                      
-                        {        
-                          "names": "CLR_FrzHrzVac_F_LittleAlien"              
-                        }
-                      ]
-                    }
-                  ]
-                }
+                }                
               ]
             },
             {
