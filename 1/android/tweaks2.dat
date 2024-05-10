@@ -670,34 +670,34 @@
                     {
                       "levelNames": [
                         {
-                          "names": "FRE_Ennui_Pablo"
+                          "names": "CLR_EVENT2"
                         },
                         {
-                          "names": "CLR_none_RainbowReticle"
+                          "names": "CLR_EVENT3"
                         },
                         {
-                          "names": "CLR_none_BankShots_v1"
+                          "names": "CLR_Event4"
                         },
                         {
-                          "names": "CLR_FltDuaTdg_J_ManicTuesdays"
+                          "names": "FRE_EVENT1"
                         },
                         {
-                          "names": "CLR_Envy_Tutorial"
+                          "names": "FRE_EVENT2"
                         },
                         {
-                          "names": "Tar_none_DiamondHole_OTA4_1"
+                          "names": "FRE_Event3"
                         },
                         {    
-                          "names": "CLR_FrzHrzSpy_AD_Tortoise"                  
+                          "names": "TAR_EVENT1"                  
                         },
                         {
-                          "names": "CLR_FrzHidPrxIns_F_Pidgeotto"
+                          "names": "TAR_EVENT2"
                         },
                         { 
-                          "names": "CLR_FrzHidVacIns_SAD_Seagull"                     
+                          "names": "TAR_EVENT3"                     
                         },                      
                         {        
-                          "names": "CLR_FrzHrzVac_F_LittleAlien"              
+                          "names": "TAR_EVENT4"              
                         }
                       ]
                     },
