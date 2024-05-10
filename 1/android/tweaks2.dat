@@ -670,34 +670,34 @@
                     {
                       "levelNames": [
                         {
-                          "names": "CLR_EVENT2"
+                          "names": "FRE_Event3"
+                        },
+                        {
+                          "names": "TAR_EVENT3"
                         },
                         {
                           "names": "CLR_EVENT3"
                         },
                         {
-                          "names": "CLR_Event4"
+                          "names": "TAR_EVENT1"
+                        },
+                        {
+                          "names": "CLR_EVENT2"
                         },
                         {
                           "names": "FRE_EVENT1"
                         },
-                        {
-                          "names": "FRE_EVENT2"
-                        },
-                        {
-                          "names": "FRE_Event3"
-                        },
                         {    
-                          "names": "TAR_EVENT1"                  
+                          "names": "CLR_Event4"                  
                         },
                         {
                           "names": "TAR_EVENT2"
                         },
                         { 
-                          "names": "TAR_EVENT3"                     
+                          "names": "TAR_EVENT4"                     
                         },                      
                         {        
-                          "names": "TAR_EVENT4"              
+                          "names": "FRE_EVENT2"              
                         }
                       ]
                     },
