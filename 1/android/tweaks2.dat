@@ -622,7 +622,7 @@
               "levelsEventClaimScreenAssetName": "IO_DejaVu_claimImage"
             },
             {
-              "eventMapIconAssetName": "IO_DejaVu_eventImage"
+              "eventMapIconAssetName": "io2_icon_challenge"
             },
             {
               "levelsEventUIHeaddressAssetName": "IO_DejaVu_containerTrim"
@@ -643,10 +643,10 @@
               "startDate": "4/9/2024 00:01 -7:00"
             },
             {
-              "levelsEventMapAssetName": "IO_trophytown_map_scroll"
+              "levelsEventMapAssetName": "io2_bg_challenge"
             },
             {
-              "assetBundle": "dejavuanxietychallenge"
+              "assetBundle": "iotb2levelschallenge"
             },
             {
               "customValues": "ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
