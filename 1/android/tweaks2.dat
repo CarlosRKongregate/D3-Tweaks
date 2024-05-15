@@ -631,7 +631,7 @@
               "type": "Levels"
             },
             {
-              "levelsLives": "1"
+              "levelsLives": "4"
             },
             {
               "endDate": "5/30/2024 23:59 -7:00"
@@ -662,7 +662,7 @@
                       "levelRequirement": "3"
                     },
                     {
-                      "numLives": "2"
+                      "numLives": "4"
                     },
                     {
                       "customValues": "ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
