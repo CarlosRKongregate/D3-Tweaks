@@ -2378,6 +2378,18 @@
         "numCores": "4"
       },
       {
+              "uid": "AndroidTier4b",
+              "settingsProfile": "EverythingOn",
+              "ramSizeRange": "4096-16048",
+              "numCores": "4"
+      },
+      {
+      "uid": "AndroidTier5b",
+              "settingsProfile": "EverythingOn",
+              "ramSizeRange": "4096-16048",
+              "numCores": "8"
+      },
+      {
         "uid": "AndroidUnknown",
         "settingsProfile": "Lowest"
       }
