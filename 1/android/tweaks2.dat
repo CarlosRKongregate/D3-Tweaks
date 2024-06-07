@@ -723,16 +723,17 @@
                     {
                       "TutorialLevels": [
                         {
-                          "names": "FRE_Anxiety_Tutorial"
-                        },
-                        { 
-                          "names": "CLR_Embarrassment_Tutorial"
+                            "names": "FRE_Anxiety_Tutorial"
                         },
                         {
-                          "names": "CLR_Ennui_Tutorial"
+                            "names": "CLR_Ennui_Tutorial"
+
                         },
                         {
-                          "names": "FRE_Envy_Tutorial"
+                            "names": "FRE_Envy_Tutorial"
+                        },
+                        {
+                            "names": "CLR_Embarrassment_Tutorial"
                         }
                       ]
                     }

@@ -723,16 +723,17 @@
                     {
                       "TutorialLevels": [
                         {
-                          "names": "FRE_Anxiety_Tutorial"
-                        },
-                        { 
-                          "names": "CLR_Embarrassment_Tutorial"
+                            "names": "FRE_Anxiety_Tutorial"
                         },
                         {
-                          "names": "CLR_Ennui_Tutorial"
+                            "names": "CLR_Ennui_Tutorial"
+
                         },
                         {
-                          "names": "FRE_Envy_Tutorial"
+                            "names": "FRE_Envy_Tutorial"
+                        },
+                        {
+                            "names": "CLR_Embarrassment_Tutorial"
                         }
                       ]
                     }
@@ -2376,6 +2377,18 @@
         "settingsProfile": "EverythingOn",
         "ramSizeRange": "2048-4095",
         "numCores": "4"
+      },
+      {
+              "uid": "AndroidTier4b",
+              "settingsProfile": "EverythingOn",
+              "ramSizeRange": "4096-16048",
+              "numCores": "4"
+      },
+      {
+      "uid": "AndroidTier5b",
+              "settingsProfile": "EverythingOn",
+              "ramSizeRange": "4096-16048",
+              "numCores": "8"
       },
       {
         "uid": "AndroidUnknown",
