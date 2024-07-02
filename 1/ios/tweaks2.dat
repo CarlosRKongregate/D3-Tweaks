@@ -634,13 +634,13 @@
               "levelsLives": "4"
             },
             {
-              "endDate": "6/30/2024 23:59 -7:00"
+              "endDate": "7/4/2024 23:59 -7:00"
             },
             {
-              "eventComingDate": "4/7/2024 00:01 -7:00"
+              "eventComingDate": "7/2/2024 00:01 -7:00"
             },
             {
-              "startDate": "4/9/2024 00:01 -7:00"
+              "startDate": "7/1/2024 00:01 -7:00"
             },
             {
               "levelsEventMapAssetName": "io2_bg_challenge"
@@ -727,7 +727,6 @@
                         },
                         {
                             "names": "CLR_Ennui_Tutorial"
-
                         },
                         {
                             "names": "FRE_Envy_Tutorial"
